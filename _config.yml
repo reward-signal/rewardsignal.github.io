@@ -13,16 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Nangka
+title: Today's Sports
 description: >- # this means to ignore newlines until "author:"
   Welcome to my awesome blog..
-author: rmsubekti
+author: mgongkang
 author_avatar: assets/avatar.png
-email: su@bekti.net
+email: mgongkang@gmail.com
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: rmsubekti
-github_username:  rmsubekti/nangka
+github_username:  mgongkang
 # disqus_shortname: rmsubekti
 
 google_analytics: UA-124XXXXX-XX
@@ -31,15 +31,9 @@ cse_id : 010xxxxxxx00xxxxxxxx:v_uiprmpwme
 
 logo: /assets/icons/512.png
 social:
-  name: Nangka
+  name: Mgongkang
   links:
-    - https://twitter.com/rmsubekti
-    - https://www.facebook.com/rmsbekti
-    - https://www.linkedin.com/in/rahmatsubekti
-    - https://plus.google.com/u/0/+rmsubekti
-    - https://github.com/rmsubekti
-    - https://mozillians.org/u/bekti/
-    - https://developer.mozilla.org/id/profiles/bekti
+    - https://github.com/mgongkang
 
 sass:
     style: compressed
