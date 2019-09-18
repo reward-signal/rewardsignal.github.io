@@ -5,15 +5,4 @@ menu: About
 permalink: /about
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+저희 스포츠 데이터 센터에서는 간단하지만 정확하고 직접적으로 도움이 될 수 있는 데이터를 제공하여, 여러분들에게 스포츠 경기 예측 및 스포츠를 더욱 재미있게 즐기실 수 있도록 도움을 주려는 데에 최선을 다 하겠습니다. 저희 데이터는 무료로 제공되며, 경기예측을 위한 시간 절약과 분석의 확률을 높일 수 있도록 노력하고 있습니다. 저희가 제공하는 데이터의 확률을 높이기 위해 지속적인 데이터 수집 및 분석을 하겠습니다.
